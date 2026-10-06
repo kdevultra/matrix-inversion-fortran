@@ -1,0 +1,31 @@
+# Executables
+main
+*.exe
+*.out
+
+# Object and Module files
+*.o
+*.obj
+*.mod
+*.smod
+
+# Shared and static libraries
+*.a
+*.so
+*.dylib
+*.dll
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Debug / Core dumps
+core
+vgcore.*
